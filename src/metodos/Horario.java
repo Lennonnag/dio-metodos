@@ -1,3 +1,4 @@
+package metodos;
 public class Horario {
     public static void obterHora(int hora) {
        

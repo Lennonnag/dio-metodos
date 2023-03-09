@@ -1,3 +1,4 @@
+package metodos;
 import java.text.DecimalFormat;
 
 public class Emprestimo {
